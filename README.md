@@ -30,10 +30,11 @@ Jupyter Notebook – Documentation & execution
 # Example Visuals
 Placement rates by gender & education background:
 <img width="426" height="252" alt="image" src="https://github.com/user-attachments/assets/d3006214-3426-4114-ac88-fa3ecfc1c000" />
+
 <img width="397" height="253" alt="image" src="https://github.com/user-attachments/assets/7a02e286-816c-4047-a22d-7f28ffc69e4e" />
 
 Salary distribution histogram:
-<img width="490" height="352" alt="image" src="https://github.com/user-attachments/assets/bdbb5939-8af4-4b5d-bae7-0adaf95887bd" />
+<img width="390" height="252" alt="image" src="https://github.com/user-attachments/assets/bdbb5939-8af4-4b5d-bae7-0adaf95887bd" />
 
 Correlation heatmap of features:
 <img width="666" height="417" alt="image" src="https://github.com/user-attachments/assets/9dff230a-f454-4b6a-aeea-e9af697d3e3c" />
