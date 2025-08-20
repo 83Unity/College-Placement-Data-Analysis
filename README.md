@@ -23,26 +23,26 @@ MAE, RMSE, R² for regression tasks
 # Tech Stack
 Python
 Pandas, Numpy: Data manipulation
-matplotlib & seaborn: Data Visualization
+Matplotlib & seaborn: Data Visualization
 Scikit-Learn: Machine Learning models & evaluation
 Jupyter Notebook – Documentation & execution
 
 # Example Visuals
 Placement rates by gender & education background:
-<img width="726" height="552" alt="image" src="https://github.com/user-attachments/assets/d3006214-3426-4114-ac88-fa3ecfc1c000" />
-<img width="697" height="553" alt="image" src="https://github.com/user-attachments/assets/7a02e286-816c-4047-a22d-7f28ffc69e4e" />
+<img width="626" height="452" alt="image" src="https://github.com/user-attachments/assets/d3006214-3426-4114-ac88-fa3ecfc1c000" />
+<img width="597" height="453" alt="image" src="https://github.com/user-attachments/assets/7a02e286-816c-4047-a22d-7f28ffc69e4e" />
 
 Salary distribution histogram:
-<img width="690" height="552" alt="image" src="https://github.com/user-attachments/assets/bdbb5939-8af4-4b5d-bae7-0adaf95887bd" />
+<img width="590" height="452" alt="image" src="https://github.com/user-attachments/assets/bdbb5939-8af4-4b5d-bae7-0adaf95887bd" />
 
 Correlation heatmap of features:
-<img width="966" height="717" alt="image" src="https://github.com/user-attachments/assets/9dff230a-f454-4b6a-aeea-e9af697d3e3c" />
+<img width="666" height="417" alt="image" src="https://github.com/user-attachments/assets/9dff230a-f454-4b6a-aeea-e9af697d3e3c" />
 
 Predictive modeling results:
 Logistic Regression accuracy on placement classification
-<img width="972" height="504" alt="image" src="https://github.com/user-attachments/assets/ee2bf0c3-4136-4dfd-9e32-57d251143c69" />
+<img width="672" height="304" alt="image" src="https://github.com/user-attachments/assets/ee2bf0c3-4136-4dfd-9e32-57d251143c69" />
 Random Forest performance on salary prediction
-<img width="966" height="505" alt="image" src="https://github.com/user-attachments/assets/380af14c-213b-45df-9007-93eeecbce24c" />
+<img width="666" height="255" alt="image" src="https://github.com/user-attachments/assets/380af14c-213b-45df-9007-93eeecbce24c" />
 
 
 
